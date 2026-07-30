@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1929-concatenation-of-array) |
