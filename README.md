@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
