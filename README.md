@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1920-build-array-from-permutation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
