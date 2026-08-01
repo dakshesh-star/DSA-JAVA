@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
