@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1672-richest-customer-wealth) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
