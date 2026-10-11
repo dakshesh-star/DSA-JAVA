@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
+| [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -118,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
