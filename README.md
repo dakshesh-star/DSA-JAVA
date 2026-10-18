@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
