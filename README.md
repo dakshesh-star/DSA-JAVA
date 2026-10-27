@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
