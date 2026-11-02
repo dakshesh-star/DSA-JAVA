@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
 ## Recursion
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
