@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0020-valid-parentheses) |
+| [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
+| [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Greedy
+|  |
+| ------- |
+| [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
 <!---LeetCode Topics End-->
