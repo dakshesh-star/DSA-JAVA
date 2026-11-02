@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -153,14 +156,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -233,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
