@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Matrix
 |  |
 | ------- |
@@ -164,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -255,8 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Greedy
 |  |
 | ------- |
 | [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
