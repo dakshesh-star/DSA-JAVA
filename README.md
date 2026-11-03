@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0936-stamping-the-sequence](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0936-stamping-the-sequence) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
 ## Tournament Sort
 |  |
 | ------- |
