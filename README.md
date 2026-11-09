@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -280,12 +281,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -300,10 +303,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
