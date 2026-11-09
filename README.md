@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
