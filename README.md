@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -290,5 +293,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
