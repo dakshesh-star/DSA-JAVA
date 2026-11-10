@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0463-island-perimeter) |
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0977-squares-of-a-sorted-array) |
