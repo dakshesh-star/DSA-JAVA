@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 | [0815-bus-routes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0815-bus-routes) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
@@ -354,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1791-find-center-of-star-graph) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
