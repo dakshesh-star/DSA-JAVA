@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0815-bus-routes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0815-bus-routes) |
 ## Binary Tree
 |  |
@@ -331,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
