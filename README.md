@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0239-sliding-window-maximum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
