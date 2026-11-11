@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0815-bus-routes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0815-bus-routes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,11 +356,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dakshesh-star/Leetcode-practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
