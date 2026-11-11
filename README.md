@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0198-house-robber) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0912-sort-an-array) |
