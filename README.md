@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0733-flood-fill) |
 | [0815-bus-routes](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0815-bus-routes) |
 | [0832-flipping-an-image](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0832-flipping-an-image) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/dakshesh-star/Leetcode-practise/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Greedy
